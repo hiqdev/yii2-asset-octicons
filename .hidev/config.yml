@@ -4,6 +4,7 @@ package:
     title:          Yii2 Asset Octicons
     type:           package
     keywords:       yii2, asset, octicons
+    namespace:      hiqdev\yii2\assets\octicon
     year:           2015
 
 require:
