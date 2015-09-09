@@ -1,0 +1,11 @@
+package:
+    name:           yii2-asset-octicons
+    label:          Yii2AssetOcticons
+    title:          Yii2 Asset Octicons
+    type:           package
+    keywords:       yii2, asset, octicons
+    year:           2015
+
+require:
+    hiqdev/hidev-config:        "*"
+    hiqdev/hidev-config-php:    "*"
