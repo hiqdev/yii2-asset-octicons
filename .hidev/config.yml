@@ -2,9 +2,9 @@ package:
     name:           yii2-asset-octicons
     label:          Yii2AssetOcticons
     title:          Yii2 Asset Octicons
-    type:           package
+    type:           yii2-extension
     keywords:       yii2, asset, octicons
-    namespace:      hiqdev\assets\octicon
+    namespace:      hiqdev\assets\octicons
     year:           2015
 
 require:
