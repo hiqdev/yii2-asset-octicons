@@ -1,10 +1,11 @@
-Yii2 Asset Octicons
--------------------
+Yii2 asset for GitHub Octicons
+------------------------------
 
-Yii2 Asset Octicons
+Yii2 asset for https://octicons.github.com/
 
 [![Latest Stable Version](https://poser.pugx.org/hiqdev/yii2-asset-octicons/v/stable.png)](https://packagist.org/packages/hiqdev/yii2-asset-octicons)
 [![Total Downloads](https://poser.pugx.org/hiqdev/yii2-asset-octicons/downloads.png)](https://packagist.org/packages/hiqdev/yii2-asset-octicons)
+[![Dependency Status](https://www.versioneye.com/php/hiqdev:yii2-asset-octicons/dev-master/badge.svg)](https://www.versioneye.com/php/hiqdev:yii2-asset-octicons/dev-master)
 
 ## Installation
 

@@ -1,11 +1,11 @@
 package:
     name:           yii2-asset-octicons
+    namespace:      hiqdev\assets\octicons
     label:          Yii2AssetOcticons
-    title:          Yii2 Asset Octicons
+    title:          Yii2 asset for GitHub Octicons
     type:           yii2-extension
     keywords:       yii2, asset, octicons
-    namespace:      hiqdev\assets\octicons
-    year:           2015
+    description:    Yii2 asset for https://octicons.github.com/
 
 require:
     hiqdev/hidev-config:        "*"

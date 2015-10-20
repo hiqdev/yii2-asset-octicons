@@ -1,7 +1,7 @@
 {
     "name": "hiqdev/yii2-asset-octicons",
     "type": "package",
-    "description": "Yii2 Asset Octicons",
+    "description": "Yii2 asset for GitHub Octicons",
     "keywords": [
         "yii2",
         "asset",
@@ -42,6 +42,9 @@
             "homepage": "https://hiqdev.com/"
         }
     ],
+    "require": {
+        "bower-asset/octicons": "3.1.0"
+    },
     "autoload": {
         "psr-4": {
             "hiqdev\\assets\\octicons\\": "src"
